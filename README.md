@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mlyousfi&label=Profile%20views&color=0e75b6&style=flat" alt="mlyousfi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlyousfi" alt="mlyousfi" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/https://x.com/marouanelyousfi" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/marouanelyousfi?logo=twitter&style=for-the-badge" alt="https://x.com/marouanelyousfi" /></a> </p>
 
 - 🔭 I’m currently working on [Paveros Solution](https://paveros.oussama.ma/)
