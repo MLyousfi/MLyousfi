@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mlyousfi.mlyousfi" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lyousfi+Marouane!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&font=900&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lyousfi+Marouane!;" />
 </h1>
 <h3 align="center">A passionate Full Stack developer, auto-entrepreneur, freelancer from Morocco</h3>
 
@@ -9,6 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://x.com/marouanelyousfi" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/marouanelyousfi?logo=twitter&style=for-the-badge" alt="https://x.com/marouanelyousfi" /></a> </p>
 
+<div align='left'>
 - 🔭 I’m currently working on [Paveros Solution](https://paveros.oussama.ma/)
 
 - 🌱 I’m currently learning **2ISD ENSA FES**
@@ -16,7 +17,10 @@
 - 💬 Ask me about **react, .NET, Unity 3D, React Native**
 
 - 📫 How to reach me **https://www.linkedin.com/in/marouane-lyousfi-21b4631a6/**
-
+</div>
+<div align='right'>
+    <img src="./6572420_3301602.png" alt="Me right now" />
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/marouane-lyousfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/marouane-lyousfi" height="30" width="40" /></a>
