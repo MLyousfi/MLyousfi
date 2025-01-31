@@ -6,11 +6,11 @@
 </h1>
 <h3 align="center">A passionate Full Stack developer, auto-entrepreneur, freelancer from Morocco</h3>
 
+<img align='right' width='300' src="./6572420_3301602.png" alt="Me right now" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mlyousfi&label=Profile%20views&color=0e75b6&style=flat" alt="mlyousfi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://x.com/marouanelyousfi" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/marouanelyousfi?logo=twitter&style=for-the-badge" alt="https://x.com/marouanelyousfi" /></a> </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
     <div align='left'>
         - 🔭 I’m currently working on [Paveros Solution](https://paveros.oussama.ma/)
 
@@ -20,10 +20,7 @@
 
         - 📫 How to reach me **https://www.linkedin.com/in/marouane-lyousfi-21b4631a6/**
     </div>
-    <div align='right'>
-        <img src="./6572420_3301602.png" alt="Me right now" />
-    </div>
-</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/marouane-lyousfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/marouane-lyousfi" height="30" width="40" /></a>
